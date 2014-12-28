@@ -1,3 +1,5 @@
+/* Program to solve the Consumer Producer Problem with Synchronisation and Mutex */
+
 //Creating the type buffer_item
 // buffer
 typedef int buffer_item;
