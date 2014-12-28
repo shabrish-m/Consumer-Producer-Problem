@@ -1,7 +1,7 @@
 /* 
 Program to solve the Consumer Producer Problem 
 with Synchronisation and Mutex 
-Author: Saira Barlas
+Author: Saira J. Barlas
 Date: 08/12/2014
 */
 
