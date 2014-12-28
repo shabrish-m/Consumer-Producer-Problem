@@ -2,7 +2,7 @@
 Program to solve the Consumer Producer Problem 
 with Synchronisation and Mutex 
 Author: Saira J. Barlas
-Date: 08/12/2014
+Date: 08/12/14
 */
 
 //Creating the type buffer_item
